@@ -1,0 +1,48 @@
+               body {
+                   background-image: url("./images/background.jpg");
+               }
+               
+               #layout {
+                   width: 1200px;
+                   height: 1500px;
+                   background-color: white;
+                   margin: 50px 30px 20px 60px;
+               }
+               
+               h1 {
+                   font-family: Georgia, serif, Times New Roman, times-roman, serif;
+                   color: black;
+                   margin-top: 20px;
+                   margin-bottom: 0px;
+                   padding: 0px 0px 0px 0px;
+                   font-size: 62px;
+                   line-height: 150px;
+                   letter-spacing: -2px;
+                   font-weight: bold;
+                   text-align: center;
+               }
+               
+               .description {
+                   font-family: georgia;
+                   color: black;
+                   font-size: 18px;
+                   line-height: 30px;
+                   margin-right: 60px;
+                   margin-left: 60px
+               }
+               
+               p {
+                   margin-right: 60px;
+                   margin-left: 60px
+               }
+               
+               #game {
+                   border: 1px solid black;
+                   background-color: #11051b;
+                   margin-left: 350px;
+               }
+               
+               h3 {
+                   margin-left: 60px;
+                   text-align: : center;
+               }
